@@ -1,0 +1,10 @@
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\bin\Debug\RecLab1.exe.config
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\bin\Debug\RecLab1.exe
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\bin\Debug\RecLab1.pdb
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\obj\Debug\RecLab1.csproj.AssemblyReference.cache
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\obj\Debug\RecLab1.Form1.resources
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\obj\Debug\RecLab1.Properties.Resources.resources
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\obj\Debug\RecLab1.csproj.GenerateResource.cache
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\obj\Debug\RecLab1.csproj.CoreCompileInputs.cache
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\obj\Debug\RecLab1.exe
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\RecLab1\RecLab1\obj\Debug\RecLab1.pdb

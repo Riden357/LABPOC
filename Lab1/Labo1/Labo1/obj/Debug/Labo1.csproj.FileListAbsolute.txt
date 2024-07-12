@@ -1,0 +1,11 @@
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\bin\Debug\Labo1.exe.config
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\bin\Debug\Labo1.exe
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\bin\Debug\Labo1.pdb
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\obj\Debug\Labo1.csproj.AssemblyReference.cache
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\obj\Debug\Labo1.Form_Maison.resources
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\obj\Debug\Labo1.Properties.Resources.resources
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\obj\Debug\Labo1.csproj.GenerateResource.cache
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\obj\Debug\Labo1.csproj.CoreCompileInputs.cache
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\obj\Debug\Labo1.exe
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\obj\Debug\Labo1.pdb
+C:\Users\New User\Documents\TECCART\QuintaSesion\POC\Labo1\Labo1\obj\Debug\Labo1.FormPortConfiguration.resources
